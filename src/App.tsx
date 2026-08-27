@@ -64,6 +64,13 @@ export default function App() {
                 </span>
               </div>
             </div>
+            
+            <div className="p-4 bg-neutral-50 rounded-xl border border-neutral-100">
+              <span className="font-medium text-neutral-700 block mb-2">GitHub Webhook URL:</span>
+              <code className="text-xs break-all bg-neutral-200 p-2 rounded block">
+                https://ais-pre-lxk5ujzptw2iab52ugxqyw-669993466217.asia-east1.run.app/api/github-webhook
+              </code>
+            </div>
           </div>
 
           {!isFullyConfigured && (
