@@ -1,0 +1,6 @@
+{
+  "name": "Discord Bot Template",
+  "description": "A full-stack Discord bot template using discord.js and an Express backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
